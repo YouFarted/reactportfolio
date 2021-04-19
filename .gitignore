@@ -1,5 +1,9 @@
 build
 
+# temporary files left around by editors
+*.swp
+*~
+
 # Logs
 logs
 *.log
